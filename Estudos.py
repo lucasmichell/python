@@ -3,3 +3,6 @@ class Estudos:
 
     def primeiro_metodo(self):
         print("Apenas teste")
+
+    def segundo_metodo(self):
+        print("Segundo teste")
